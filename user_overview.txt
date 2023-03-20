@@ -1,0 +1,66 @@
+Total number of registered users: 7
+Total number of tasks: 10
+
+|admin|
+Total number of tasks: 2
+Completed tasks: 2
+Incomplete tasks: 0
+Overdue tasks: 0
+Percentage of complete tasks: 100.0%
+Percentage of incomplete tasks: 0.0%
+Percentage of overdue tasks: 0.0%
+
+|Sally|
+Total number of tasks: 4
+Completed tasks: 1
+Incomplete tasks: 3
+Overdue tasks: 3
+Percentage of complete tasks: 25.0%
+Percentage of incomplete tasks: 75.0%
+Percentage of overdue tasks: 75.0%
+
+|James|
+Total number of tasks: 1
+Completed tasks: 0
+Incomplete tasks: 1
+Overdue tasks: 1
+Percentage of complete tasks: 0.0%
+Percentage of incomplete tasks: 100.0%
+Percentage of overdue tasks: 100.0%
+
+|Reviewer|
+Total number of tasks: 1
+Completed tasks: 0
+Incomplete tasks: 1
+Overdue tasks: 1
+Percentage of complete tasks: 0.0%
+Percentage of incomplete tasks: 100.0%
+Percentage of overdue tasks: 100.0%
+
+|Simon|
+Total number of tasks: 1
+Completed tasks: 0
+Incomplete tasks: 1
+Overdue tasks: 0
+Percentage of complete tasks: 0.0%
+Percentage of incomplete tasks: 100.0%
+Percentage of overdue tasks: 0.0%
+
+|Daniel|
+Total number of tasks: 0
+Completed tasks: 0
+Incomplete tasks: 0
+Overdue tasks: 0
+Percentage of complete tasks: 0%
+Percentage of incomplete tasks: 0%
+Percentage of overdue tasks: 0%
+
+|Carl|
+Total number of tasks: 0
+Completed tasks: 0
+Incomplete tasks: 0
+Overdue tasks: 0
+Percentage of complete tasks: 0%
+Percentage of incomplete tasks: 0%
+Percentage of overdue tasks: 0%
+
